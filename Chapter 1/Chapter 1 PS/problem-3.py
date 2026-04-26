@@ -8,3 +8,10 @@ def function_to_test(x):
 # This is the "active" part that actually runs
 print(f"Testing with 2: {function_to_test(2)}") 
 print(f"Testing with -1: {function_to_test(-1)}")
+
+
+import pyttsx3 # Importing the external module you just installed
+
+engine = pyttsx3.init()
+engine.say("Hey, dude! Wassup?")
+engine.runAndWait()
