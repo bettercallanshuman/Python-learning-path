@@ -1,6 +1,6 @@
 # REMEMBER THIS : [INCLUSION:EXCLUSION]
 
-name="Anshuman"
+name="Anshuman" # the value is referred to str, and each letters of this "str" are known as CHARACTERS in STR
 nameshort=name[0:4] # this prints the value from 0 i.e. A to 3 i.e. h, because the 4 gets excluded
 print(nameshort)
 
