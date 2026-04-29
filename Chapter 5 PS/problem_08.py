@@ -24,7 +24,8 @@ d.update({name : lang})
 
 print(d)
 
-# Answer : No changes ; The values will remain same, because dictionaries have identifiers which indentifies the same keys with different values.
+# Answer : No changes ; The values will remain same, 
+# because dictionaries have identifiers which indentifies the same keys with different values.
 
 
 # Output : 
