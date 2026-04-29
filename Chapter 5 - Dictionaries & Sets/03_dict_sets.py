@@ -5,3 +5,5 @@ e = set() # don't use e = {}, because it'll create an empty dictionary
 
 s = {1, 23, 56, 5 ,5, 5} # it won't print the same numbers that has been already in a set 
 print(s)
+s = {45,34,56,23,78,56}
+print(s, (type(s)))

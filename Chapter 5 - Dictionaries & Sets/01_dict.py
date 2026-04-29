@@ -11,3 +11,6 @@ print(marks, (type(marks)))
 print(marks["Anshuman"])
 print(d, (type(d)))
 
+length_dict = {0 : "Anshuman", 5 : "XYZ", 9 : "Nine"}
+print(len(length_dict))
+
