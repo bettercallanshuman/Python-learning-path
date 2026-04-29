@@ -1,3 +1,5 @@
+d = {} # Empty dictionary
+
 marks =  {
     "Anshuman" : 100,
     "Paribrita" : 69,
@@ -7,4 +9,5 @@ marks =  {
 
 print(marks, (type(marks)))
 print(marks["Anshuman"])
+print(d, (type(d)))
 
