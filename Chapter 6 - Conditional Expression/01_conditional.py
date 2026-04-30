@@ -10,4 +10,4 @@ else:
     print("Sorry, you are under age.")
 
 
-print("End Of Program.")
+print("--End Of Program--")
