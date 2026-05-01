@@ -7,13 +7,3 @@ while(i<len(l)):
 
 #This same statement in for loop.
 
-for bro in l:
-    print(bro)
-
-#  for: Tells Python, "I want to repeat an action."
-
-#  item: This is a temporary variable. You can call it anything—bro, val, x, or member.
-
-#  in: Tells Python which collection to look at.
-
-#  l: Your list.
