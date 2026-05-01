@@ -1,0 +1,56 @@
+[33me64a2c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m progress : solved PS 4
+[33m31c83ac[m progress : solved PS 3
+[33m6f76600[m progress : solved PS 2
+[33m3432e5b[m progress ; solved PS 1"
+[33m2801a6a[m progress : chapter 7 completed
+[33m6b5113d[m progress : for loops completed
+[33mcd3ebcb[m progress : list using while loops
+[33m5f7d768[m progress : while loop basics
+[33mac182e9[m progress : chapter 7 - into to loop
+[33md282458[m[33m ([m[1;31morigin/main[m[33m)[m progress : solved PS 7, chapter 6 PS completed !
+[33m3ec1f47[m progress : solved PS 6
+[33mc3fc275[m progress : solved PS 5
+[33mbd31274[m progress : solved PS 4
+[33m91bd21b[m progress : solved PS 3
+[33m1770088[m progress : solved problem 2
+[33m8fad3b9[m progress : problem 01 solved
+[33m9d9e9c4[m progress : learnt multiple if statements. completed chapter 6
+[33m1024d1e[m progress : completed if-elif-else ladder
+[33m724b1a9[m progress : learnt elif conditional expression
+[33m6e37b68[m progress : learnt if-else conditional expression.
+[33m931a13b[m feat : added some approaches to solve questions.
+[33m77037ec[m progress : completed chapter 5 problems
+[33m0018146[m progress : Chapter 5 completed
+[33m92dd9b8[m feat : dict sets basics & knew diff between empty dict & empty set
+[33m7c4182d[m feat : complete dict methods with tricky diff betwn using dict.get(keys) and dict[keys]
+[33m3b74983[m feat : dict values
+[33m49d02bb[m feat : dict keys
+[33m588e203[m feat : dict items
+[33m165f519[m feat - dictionaries basics
+[33m35e48ab[m feat: implement collection logic and data immutability verification
+[33m8c09932[m feat : solve problem 1
+[33mf1d226a[m feat : tuples methods done. chapter 4 finish.
+[33m9211075[m feat : tuples basic
+[33m9bf0afe[m feat : list methods
+[33m27bc39b[m feat : list indexing
+[33m2131d50[m feat : basic list and indexing
+[33m0fc937f[m edit the chapters and organize
+[33mb33b7da[m docs: add project breakdown and thought process for text analyzer
+[33mcf9ee23[m feat(cli): implement core text analysis and dynamic masking logic
+[33m2adbfbd[m wip: implement text analyzer stats and logic foundations
+[33mebb410e[m wip: implement text analyzer stats and logic foundations
+[33mf6feedc[m feat: complete chapter 3 practice set and letter formatting
+[33m8c2e5f7[m feat ; solve problem 4
+[33m2b5f2c7[m feat : solve problem 3
+[33m6dada41[m feat : solve problem 2
+[33m8ac9f6b[m feat : solve problem 1
+[33m310c9fe[m feat : complete escape sequence
+[33m8dbfcf4[m feat: complete chapter 3 string slicing and functions with detailed notes, ignore .vscode added to .gitignore
+[33m13d8919[m Add Chapter 2 PS in Chapter 2 to be organized
+[33me73033d[m feat: complete all Chapter 2 practice problems
+[33m848352a[m feat: practice input function and typecasting in chapter 2
+[33m0e31567[m complete upto operators
+[33m0f62010[m Delete problem-3.1.py and add feature1 : pyttsx3 module at problem-3.py
+[33md6a8cde[m[33m ([m[1;32mfeature1[m[33m)[m feat : try the amazing module pyttsx3
+[33m9ec76f8[m feat : Solved 2 more questions of chapter 1
+[33m7627d26[m feat: initial commit with Chapter 1 practice problems
